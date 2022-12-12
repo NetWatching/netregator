@@ -4,7 +4,7 @@ py-zabbix~=1.1.7
 python-decouple==3.6
 pysnmp==4.4.12
 pysnmp-mibs==0.1.6
-urllib3==1.26.12
+urllib3==1.26.13
 coloredlogs~=15.0.1
 verboselogs~=1.7
 napalm-s350~=0.3.1
